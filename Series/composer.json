@@ -1,0 +1,12 @@
+{
+    "name": "series/series",
+    "type": "project",
+    "description": "New Project",
+    "keywords": [],
+    "license": "",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {"App\\":"app/"}
+    }
+}
